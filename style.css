@@ -1,0 +1,14 @@
+.aprobado {
+  background-color: #198754 !important; 
+  color: rgba(4, 255, 0, 0.646) !important;
+}
+
+.reprobado {
+  background-color: #dc3545 !important; 
+  color: rgb(252, 0, 0) !important;
+}
+
+.card {
+  width: 500px;
+  background-color: rgb(21, 24, 201) !important;
+}
